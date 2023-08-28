@@ -1,5 +1,5 @@
 ---
-title: Justice4Singapore
+title: Home
 layout: home
 toc: true
 ---
@@ -8,15 +8,35 @@ toc: true
 # Singapore deserves justice.
 **Singaporeans deserve a fairer deal.**
 
-**We call for these 5 demands to be met.**\
-Demand #1: **Stop Fixing Up Harvey**\
-Demand #2: **Stop Mercury’s Crimes**\
-Demand #3: **Stop Operation High Tide**\
-Demand #4: **Fix Problems, Not People**\
-Demand #5: **Fix Our Justice System**\
+**We call for these 5 demands to be met.**
 
-[Click here](https://justice4singapore.com/#) to learn about the 5 demands.
-[Click here](https://justice4singapore.com/#) to download the public letter.
+Demand #1: **Stop Fixing Up Harvey**\
+Harvey’s 4 current charges are all the result of fix-ups.\
+Withdraw all 4 charges against Harvey.\
+Do not convict and sentence her for fix-ups.
+
+Demand #2: **Stop Mercury’s Crimes**\
+Mercury has yet to be charged for most of Mercury’s crimes.\
+Charge Mercury for Mercury’s crimes.\
+Do not charge Harvey for Mercury’s crimes.
+
+Demand #3: **Stop Operation High Tide**\
+Far-right actors must never be allowed to govern Singapore.\
+Investigate Operation High Tide thoroughly.\
+Do not sweep wrongdoings under the carpet.
+
+Demand #4: **Fix Problems, Not People**\
+Singaporeans face real problems. Focus on fixing these instead.\
+Stop fixing up Mercury’s victims. Investigate all these fix-ups.
+
+Demand #5: **Fix Our Justice System**\
+Justice must be done, and it must also be seen to be done.\
+Restore public confidence in our justice system.\
+Investigate all conflicts of interest and cover-ups.
+
+[Click here](https://justice4singapore.com/#) to learn about the 5 demands.\
+[Click here](https://justice4singapore.com/#) to download the public letter.\
+[Click here](https://justice4singapore.com/#) to download the flyer for sharing with others.
 
 ## Here’s what you can do.
 **Make your voices heard: call for all 5 demands to be met.
@@ -33,13 +53,12 @@ Required fields for Attorney-General’s Chambers (AGC)’s Representation Form:
 6. Identification Number: **S9032388A and T0004619H**
 7. Police Division/Investigating Agency: **Jurong Police Division and Bedok Police Division**
 
-**Fill up [this form here](https://justice4singapore.com/#) to confirm that you’ve sent the letter.**
+**Fill up [this form here](https://justice4singapore.com/action) to confirm that you’ve sent the letter.**
 
 Check out [Justice4Harvey](https://instagram.com/justice4harvey), [Safety4Harvey](https://instagram.com/safety4harvey) ([SG](https://instagram.com/safety4harvey), [UK](https://instagram.com/safety4harveyuk), [US](https://instagram.com/safety4harveyus)), [Safety For Singapore](https://safetyforsingapore.com/).
 
-Read Carissa’s 27 March 2023 letter to the Chief Prosecutor [here](https://ipfs.io/ipfs/QmY1Y3mjTKnjKi3G1DaL2Ge1sfjxcKXxVYzNPmXoPeiMaS).
+Read Carissa’s 27 March 2023 letter to the Chief Prosecutor [here](https://ipfs.io/ipfs/QmY1Y3mjTKnjKi3G1DaL2Ge1sfjxcKXxVYzNPmXoPeiMaS).\
 Read Carissa’s 1 May 2023 letter to the Singapore President [here](https://ipfs.io/ipfs/QmRLtnEtCHK8tUtVHw5hKiH5KNru3Ypg4f8JPJyo5Gi2Gv).
 
-Watch this space for the forthcoming release of the currently-
-unreleased bundles of evidence detailing Mercury’s crimes.
+Watch this space for the forthcoming release of the currently-unreleased bundles of evidence detailing Mercury’s crimes.
 
