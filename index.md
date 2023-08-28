@@ -34,7 +34,7 @@ Justice must be done, and it must also be seen to be done.\
 Restore public confidence in our justice system.\
 Investigate all conflicts of interest and cover-ups.
 
-[Click here](https://justice4singapore.com/#) to learn about the 5 demands.\
+[Click here](https://justice4singapore.com/demands) to learn about the 5 demands.\
 [Click here](https://justice4singapore.com/#) to download the public letter.\
 [Click here](https://justice4singapore.com/#) to download the flyer for sharing with others.
 
@@ -61,4 +61,3 @@ Read Carissa’s 27 March 2023 letter to the Chief Prosecutor [here](https://ipf
 Read Carissa’s 1 May 2023 letter to the Singapore President [here](https://ipfs.io/ipfs/QmRLtnEtCHK8tUtVHw5hKiH5KNru3Ypg4f8JPJyo5Gi2Gv).
 
 Watch this space for the forthcoming release of the currently-unreleased bundles of evidence detailing Mercury’s crimes.
-
