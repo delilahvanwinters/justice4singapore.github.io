@@ -8,28 +8,28 @@ toc: true
 # Singapore deserves justice.
 **Singaporeans deserve a fairer deal.**
 
-**We call for these 5 demands to be met.**
+**<span class="red">We call for these 5 demands to be met.</span>**
 
-Demand #1: **Stop Fixing Up Harvey**\
+**Demand #1: <span class="red">Stop Fixing Up Harvey</span>**\
 Harvey’s 4 current charges are all the result of fix-ups.\
 Withdraw all 4 charges against Harvey.\
 Do not convict and sentence her for fix-ups.
 
-Demand #2: **Stop Mercury’s Crimes**\
+**Demand #2: <span class="red">Stop Mercury’s Crimes</span>**\
 Mercury has yet to be charged for most of Mercury’s crimes.\
 Charge Mercury for Mercury’s crimes.\
 Do not charge Harvey for Mercury’s crimes.
 
-Demand #3: **Stop Operation High Tide**\
+**Demand #3: <span class="red">Stop Operation High Tide</span>**\
 Far-right actors must never be allowed to govern Singapore.\
 Investigate Operation High Tide thoroughly.\
 Do not sweep wrongdoings under the carpet.
 
-Demand #4: **Fix Problems, Not People**\
+**Demand #4: <span class="red">Fix Problems, Not People</span>**\
 Singaporeans face real problems. Focus on fixing these instead.\
 Stop fixing up Mercury’s victims. Investigate all these fix-ups.
 
-Demand #5: **Fix Our Justice System**\
+**Demand #5: <span class="red">Fix Our Justice System</span>**\
 Justice must be done, and it must also be seen to be done.\
 Restore public confidence in our justice system.\
 Investigate all conflicts of interest and cover-ups.
@@ -38,7 +38,7 @@ Investigate all conflicts of interest and cover-ups.
 [Click here](https://justice4singapore.com/letter) to download the public letter.\
 [Click here](https://justice4singapore.com/flyer) to download the flyer for sharing with others.
 
-## Here’s what you can do.
+## <span class="red">Here’s what you can do.</span>
 **Make your voices heard: call for all 5 demands to be met.
 Let your leaders know Singapore deserves justice.**
 
