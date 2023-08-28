@@ -35,7 +35,7 @@ Restore public confidence in our justice system.\
 Investigate all conflicts of interest and cover-ups.
 
 [Click here](https://justice4singapore.com/demands) to learn about the 5 demands.\
-[Click here](https://justice4singapore.com/#) to download the public letter.\
+[Click here](https://justice4singapore.com/letter) to download the public letter.\
 [Click here](https://justice4singapore.com/#) to download the flyer for sharing with others.
 
 ## Here’s what you can do.
