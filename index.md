@@ -36,7 +36,7 @@ Investigate all conflicts of interest and cover-ups.
 
 [Click here](https://justice4singapore.com/demands) to learn about the 5 demands.\
 [Click here](https://justice4singapore.com/letter) to download the public letter.\
-[Click here](https://justice4singapore.com/#) to download the flyer for sharing with others.
+[Click here](https://justice4singapore.com/flyer) to download the flyer for sharing with others.
 
 ## Here’s what you can do.
 **Make your voices heard: call for all 5 demands to be met.

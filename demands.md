@@ -1,6 +1,6 @@
 ---
 layout: forward
-title: Action
+title: Demands
 target: /assets/demands.pdf
 permalink: /demands/
 ---
