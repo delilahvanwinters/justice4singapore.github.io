@@ -23,7 +23,7 @@ We, the people of Singapore.
 # Singapore deserves justice.
 **Singaporeans deserve a fairer deal.**
 
-[**<span class="red">We call for these 5 demands to be met.</span>**](/demands)
+<span class="red">[**We call for these 5 demands to be met.**](/demands)</span>
 
 **Demand #1: <span class="red">Stop Fixing Up Harvey</span>**\
 Harvey’s 4 current charges are all the result of fix-ups.\
