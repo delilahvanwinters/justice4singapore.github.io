@@ -23,7 +23,7 @@ We, the people of Singapore.
 # Singapore deserves justice.
 **Singaporeans deserve a fairer deal.**
 
-**<span class="red">We call for these 5 demands to be met.</span>**
+[**<span class="red">We call for these 5 demands to be met.</span>**](/demands)
 
 **Demand #1: <span class="red">Stop Fixing Up Harvey</span>**\
 Harvey’s 4 current charges are all the result of fix-ups.\
@@ -49,9 +49,9 @@ Justice must be done, and it must also be seen to be done.\
 Restore public confidence in our justice system.\
 Investigate all conflicts of interest and cover-ups.
 
-[Click here](https://justice4singapore.com/demands) to learn about the 5 demands.\
-[Click here](https://justice4singapore.com/letter) to download the public letter.\
-[Click here](https://justice4singapore.com/flyer) to download the flyer for sharing with others.
+[Click here](/demands) to learn about the 5 demands.\
+[Click here](/letter) to download the public letter.\
+[Click here](/flyer) to download the flyer for sharing with others.
 
 ## <span class="red">Here’s what you can do.</span>
 **Make your voices heard: call for all 5 demands to be met.
@@ -68,7 +68,7 @@ Required fields for Attorney-General’s Chambers (AGC)’s Representation Form:
 6. Identification Number: **S9032388A and T0004619H**
 7. Police Division/Investigating Agency: **Jurong Police Division and Bedok Police Division**
 
-**Fill up [this form here](https://justice4singapore.com/action) to confirm that you’ve sent the letter.**
+**Fill up [this form here](/action) to confirm that you’ve sent the letter.**
 
 Check out [Justice4Harvey](https://instagram.com/justice4harvey), [Safety4Harvey](https://instagram.com/safety4harvey) ([SG](https://instagram.com/safety4harvey), [UK](https://instagram.com/safety4harveyuk), [US](https://instagram.com/safety4harveyus)), [Safety For Singapore](https://safetyforsingapore.com/).
 
