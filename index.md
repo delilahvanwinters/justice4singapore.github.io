@@ -4,19 +4,21 @@ layout: home
 toc: true
 ---
 
-Singapore started as a small fishing village and we've prospered. But the world is always changing and growing. We have to keep up and think ahead, for the safety and security of ourselves, our loved ones, our land and those who might need an extra hand.
+Singapore started as a small fishing village and we’ve prospered. But the world is always changing and growing. We have to keep up and think ahead, for the safety and security of ourselves, our loved ones, our land and those who might need an extra hand.
 
 While living in Singapore gets harder (be it physically, financially, socially, culturally or politically) and the future feels uncertain, the government needs to focus ALL their attention on addressing the REAL problems and the REAL worries that we are facing now more than ever. We want better job prospects, stability and wages. We want a more affordable cost of living.
 
 We want to have confidence in our government, institutions, policies and processes as these are foundations of our continued quality of life in Singapore. We take for granted that Singapore has low crime and low corruption, and that systems in Singapore are working and able to keep us safe. But what happens when we can no longer reasonably assume this? What happens when we face a threat that our system cannot deal with?
 
-For over a year, Mercury Jamie Alice has committed sexual harassment, doxxing of NRICs and home addresses, death threats, rape, house break-in attempts, distribution of revenge porn, and several counts of murder. She has been deliberately exploiting legal loopholes and systemic gaps in order to commit her crimes – and is trying to frame her own victims for her offences. Mercury has yet to face serious repercussions for her actions. Instead, it appears as though the preferred response is to silence this case, and punish Mercury's victims for speaking up. This has made Singapore unsafe for many people, their families and their neighbours. Victims kena endangered, then cannot even be protected? Instead, victims risk being punished, fixed up and silenced?
+For over a year, Mercury Jamie Alice has committed sexual harassment, doxxing of NRICs and home addresses, death threats, rape, house break-in attempts, distribution of revenge porn, and several counts of murder. She has been deliberately exploiting legal loopholes and systemic gaps in order to commit her crimes – and is trying to frame her own victims for her offences. Her key victim is Vickreman Harvey Chettiar, who you can read about on Justice4Harvey and Safety4Harvey. Mercury has been trying to put the blame on Harvey by claiming that it is Harvey behind Mercury's own offences... But Mercury's victims know that it's Mercury.
 
-If a criminal like Mercury can exist in Singapore, and it appears that the government either does not WANT to or know HOW to deal with the issue, then how do we keep Singapore safe? When this issue reaches the ears of other countries and the rest of the world, how will this affect Singapore's stability? Will businesses and other governments lose trust in Singapore? Will investments be negatively affected? How will this affect our jobs? How will this affect our income and security?
+Mercury has yet to face serious repercussions for her actions. Instead, it appears as though the preferred response is to silence this case, and punish Mercury’s victims, especially Harvey, for speaking up. This has made Singapore unsafe for many people, their families and their neighbours. Victims kena endangered, then cannot even be protected? Instead, victims risk being punished, fixed up and silenced?
+
+If a criminal like Mercury can exist in Singapore, and it appears that the government either does not WANT to or know HOW to deal with the issue, then how do we keep Singapore safe? When this issue reaches the ears of other countries and the rest of the world, how will this affect Singapore’s stability? Will businesses and other governments lose trust in Singapore? Will investments be negatively affected? How will this affect our jobs? How will this affect our income and security?
 
 We have to stop this problem now before things become catastrophic. We do not want more criminals like Mercury to appear in Singapore. We want the government to ACTUALLY DEAL with REAL problems PROPERLY, including problems like those caused by Mercury, that may be embarrassing to its reputation. We want the government to have the COURAGE to admit to its past mistakes, and APOLOGISE and REPAIR the damage that has been done. We want to PROGRESS, not COLLAPSE. We want Singapore in peace, not in pieces.
 
-Singapore is worth loving and fighting for. It is our home. It is our land. It is all we've ever known. Singapore deserves justice.
+Singapore is worth loving and fighting for. It is our home. It is our land. It is all we’ve ever known. Singapore deserves justice.
 
 We, the people of Singapore.
 
