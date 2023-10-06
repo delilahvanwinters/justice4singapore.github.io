@@ -80,3 +80,5 @@ Read Carissa’s 1 May 2023 letter to the Singapore President [here](https://ipf
 Watch this space for the forthcoming release of the currently-unreleased bundles of evidence detailing Mercury’s crimes.
 
 The 1st Bundle of Evidence has been released for public viewing [here](/1stbundle).
+
+The 2nd Bundle of Evidence has been released for public viewing [here](/2ndbundle).
