@@ -77,8 +77,10 @@ Check out [Justice4Harvey](https://instagram.com/justice4harvey), [Safety4Harvey
 Read Carissa’s 27 March 2023 letter to the Chief Prosecutor [here](https://ipfs.io/ipfs/QmY1Y3mjTKnjKi3G1DaL2Ge1sfjxcKXxVYzNPmXoPeiMaS).\
 Read Carissa’s 1 May 2023 letter to the Singapore President [here](https://ipfs.io/ipfs/QmRLtnEtCHK8tUtVHw5hKiH5KNru3Ypg4f8JPJyo5Gi2Gv).
 
-Watch this space for the forthcoming release of the currently-unreleased bundles of evidence detailing Mercury’s crimes.
+Watch this space for further revisions to the 3rd bundle of evidence detailing Mercury’s crimes.
 
 The 1st Bundle of Evidence has been released for public viewing [here](/1stbundle).
 
 The 2nd Bundle of Evidence has been released for public viewing [here](/2ndbundle).
+
+The 3rd Bundle of Evidence has been released for public viewing [here](/3rdbundle).
