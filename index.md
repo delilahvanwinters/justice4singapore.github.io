@@ -74,8 +74,8 @@ Required fields for Attorney-General’s Chambers (AGC)’s Representation Form:
 
 Check out [Justice4Harvey](https://instagram.com/justice4harvey), [Safety4Harvey](https://instagram.com/safety4harvey) ([SG](https://instagram.com/safety4harvey), [UK](https://instagram.com/safety4harveyuk), [US](https://instagram.com/safety4harveyus)), [Safety For Singapore](https://safetyforsingapore.com/).
 
-Read Carissa’s 27 March 2023 letter to the Chief Prosecutor [here](https://ipfs.io/ipfs/QmY1Y3mjTKnjKi3G1DaL2Ge1sfjxcKXxVYzNPmXoPeiMaS).\
-Read Carissa’s 1 May 2023 letter to the Singapore President [here](https://ipfs.io/ipfs/QmRLtnEtCHK8tUtVHw5hKiH5KNru3Ypg4f8JPJyo5Gi2Gv).
+Read Carissa’s 27 March 2023 letter to the Chief Prosecutor at the following links: [IPFS](https://w3s.link/ipfs/bafkreibx3aljryhcr7dowiknilgezckob3rq3dsbjnncpa5p6y6gwqfwam) [Proton](https://drive.proton.me/urls/15JR4AXXY4#lP6QI7MLkvO3)
+Read Carissa’s 1 May 2023 letter to the Singapore President at the following links: [IPFS](https://ipfs.io/ipfs/QmRLtnEtCHK8tUtVHw5hKiH5KNru3Ypg4f8JPJyo5Gi2Gv) [Proton](https://drive.proton.me/urls/DV07Q1VE9R#Exj4BhX97WMm)
 
 Watch this space for further revisions to the 3rd bundle of evidence detailing Mercury’s crimes.
 
